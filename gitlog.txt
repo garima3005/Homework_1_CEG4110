@@ -1,0 +1,191 @@
+commit 573ed229e5d3ac00364d0f2745047d64aee9042e
+Author: garima3005 <singhal.11@wright.edu>
+Date:   Mon Sep 11 12:46:47 2017 -0400
+
+    Added .gitignore
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..9a3fe8c
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++!*.java
+diff --git a/Hello4110.class b/Hello4110.class
+index f2239b9..e9f981a 100644
+Binary files a/Hello4110.class and b/Hello4110.class differ
+
+commit 2d9ec1bb67f2054779e206e276f805afa7b68142
+Author: garima3005 <singhal.11@wright.edu>
+Date:   Fri Sep 8 12:07:50 2017 -0400
+
+    Reverted old files
+
+diff --git a/Hello4110-a.java b/Hello4110-a.java
+new file mode 100644
+index 0000000..f8da6f7
+--- /dev/null
++++ b/Hello4110-a.java
+@@ -0,0 +1,5 @@
++class Hello4110{
++	public static void main(String[] args){
++		System.out.println("Hello Garima");
++	}
++}
+diff --git a/Hello4110-b.java b/Hello4110-b.java
+new file mode 100644
+index 0000000..f8da6f7
+--- /dev/null
++++ b/Hello4110-b.java
+@@ -0,0 +1,5 @@
++class Hello4110{
++	public static void main(String[] args){
++		System.out.println("Hello Garima");
++	}
++}
+
+commit 549d3bde6929934576b9763e17b12231f77636a8
+Author: garima3005 <singhal.11@wright.edu>
+Date:   Wed Sep 6 12:03:02 2017 -0400
+
+    Removed Hello4110-a.java
+
+diff --git a/Hello4110-b.java b/Hello4110-b.java
+deleted file mode 100644
+index f8da6f7..0000000
+--- a/Hello4110-b.java
++++ /dev/null
+@@ -1,5 +0,0 @@
+-class Hello4110{
+-	public static void main(String[] args){
+-		System.out.println("Hello Garima");
+-	}
+-}
+
+commit 6700ab363f07d121b7839287efa3ca33e584bf72
+Author: garima3005 <singhal.11@wright.edu>
+Date:   Wed Sep 6 11:56:27 2017 -0400
+
+    Removed Hello4110-a.java
+
+diff --git a/Hello4110-a.java b/Hello4110-a.java
+deleted file mode 100644
+index f8da6f7..0000000
+--- a/Hello4110-a.java
++++ /dev/null
+@@ -1,5 +0,0 @@
+-class Hello4110{
+-	public static void main(String[] args){
+-		System.out.println("Hello Garima");
+-	}
+-}
+
+commit 10b6485ddd992519f3a7aef2744436eeceb2cd06
+Author: garima3005 <singhal.11@wright.edu>
+Date:   Wed Sep 6 11:51:06 2017 -0400
+
+    Adding Copied Files
+
+diff --git a/Hello4110-a.java b/Hello4110-a.java
+new file mode 100644
+index 0000000..f8da6f7
+--- /dev/null
++++ b/Hello4110-a.java
+@@ -0,0 +1,5 @@
++class Hello4110{
++	public static void main(String[] args){
++		System.out.println("Hello Garima");
++	}
++}
+diff --git a/Hello4110-b.java b/Hello4110-b.java
+new file mode 100644
+index 0000000..f8da6f7
+--- /dev/null
++++ b/Hello4110-b.java
+@@ -0,0 +1,5 @@
++class Hello4110{
++	public static void main(String[] args){
++		System.out.println("Hello Garima");
++	}
++}
+
+commit e58f5523df0b5c9524a01525db88b7b654a37624
+Author: garima3005 <singhal.11@wright.edu>
+Date:   Wed Sep 6 11:46:41 2017 -0400
+
+    Adding Java Files
+
+diff --git a/Hello4110.class b/Hello4110.class
+new file mode 100644
+index 0000000..f2239b9
+Binary files /dev/null and b/Hello4110.class differ
+diff --git a/hello4110.java b/hello4110.java
+new file mode 100644
+index 0000000..f8da6f7
+--- /dev/null
++++ b/hello4110.java
+@@ -0,0 +1,5 @@
++class Hello4110{
++	public static void main(String[] args){
++		System.out.println("Hello Garima");
++	}
++}
+
+commit d6a4918a1d250e10ef67f744cc74e08452beef6f
+Author: garima3005 <singhal.11@wright.edu>
+Date:   Wed Sep 6 11:31:12 2017 -0400
+
+    First commit
+
+diff --git a/README.md b/README.md
+index 2bf8d23..b1b54fa 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,30 @@
+-# Homework_1_CEG4110
+\ No newline at end of file
++# Homework_1_CEG4110
++
++Name: Garima Singhal
++Favorite Color: White
++
++Favorite Recipe:
++Chocolate Chip Cookies
++Ingredients
++
++    1 cup butter, softened
++    1 cup white sugar
++    1 cup packed brown sugar
++    2 eggs
++    2 teaspoons vanilla extract
++    3 cups all-purpose flour
++
++    1 teaspoon baking soda
++    2 teaspoons hot water
++    1/2 teaspoon salt
++    2 cups semisweet chocolate chips
++    1 cup chopped walnuts
++
++Directions
++
++Preheat oven to 350 degrees F (175 degrees C).
++
++Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans.
++
++Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.
++
+
+commit 3ef13c2c071358a45a203aa75ff71358cf3bf8a5
+Author: garima3005 <31495107+garima3005@users.noreply.github.com>
+Date:   Wed Sep 6 11:23:07 2017 -0400
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..2bf8d23
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# Homework_1_CEG4110
+\ No newline at end of file
